@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ["airbnb-base"],
+  extends: ['airbnb-base'],
   env: {
     browser: true,
     node: true,
@@ -7,17 +7,17 @@ module.exports = {
   },
   parserOptions: {
     ecmaVersion: 12,
-    sourceType: "module",
+    sourceType: 'module',
   },
   rules: {
-    "import/extensions": [
-      "error",
-      "ignorePackages",
+    'import/extensions': [
+      'error',
+      'ignorePackages',
       {
-        js: "never",
+        js: 'never',
       },
     ],
-    "linebreak-style": ["error", "windows"],
-    quotes: ["error", "double"],
+    'linebreak-style': ['error', 'windows'],
+    // quotes: ["error", "double"],
   },
 };
