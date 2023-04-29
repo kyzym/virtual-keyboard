@@ -18,6 +18,7 @@ module.exports = {
       },
     ],
     'linebreak-style': ['error', 'windows'],
-    // quotes: ["error", "double"],
+    'operator-linebreak': 'off',
+    'no-param-reassign': ['error', { props: false }],
   },
 };

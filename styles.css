@@ -20,7 +20,7 @@ body {
     resize: none;
 }
 
-.keyboard {
+#keyboard {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;

@@ -1,0 +1,704 @@
+{
+  "languages": {
+    "ru_RU": [
+      {
+          "code": "Backquote",
+          "category": "letter",
+          "value": "ё"
+      },
+      {
+          "code": "Digit1",
+          "category": "changable",
+          "value": "1",
+          "altValue": "!"
+      },
+      {
+          "code": "Digit2",
+          "category": "changable",
+          "value": "2",
+          "altValue": "\""
+      },
+      {
+          "code": "Digit3",
+          "category": "changable",
+          "value": "3",
+          "altValue": "№"
+      },
+      {
+          "code": "Digit4",
+          "category": "changable",
+          "value": "4",
+          "altValue": ";"
+      },
+      {
+          "code": "Digit5",
+          "category": "changable",
+          "value": "5",
+          "altValue": "%"
+      },
+      {
+          "code": "Digit6",
+          "category": "changable",
+          "value": "6",
+          "altValue": ":"
+      },
+      {
+          "code": "Digit7",
+          "category": "changable",
+          "value": "7",
+          "altValue": "?"
+      },
+      {
+          "code": "Digit8",
+          "category": "changable",
+          "value": "8",
+          "altValue": "*"
+      },
+      {
+          "code": "Digit9",
+          "category": "changable",
+          "value": "9",
+          "altValue": "("
+      },
+      {
+          "code": "Digit0",
+          "category": "changable",
+          "value": "0",
+          "altValue": ")"
+      },
+      {
+          "code": "Minus",
+          "category": "changable",
+          "value": "-",
+          "altValue": "_"
+      },
+      {
+          "code": "Equal",
+          "category": "changable",
+          "value": "=",
+          "altValue": "+"
+      },
+      {
+          "code": "Backspace",
+          "category": "functional",
+          "value": "Backspace",
+          "function": "Backspace();"
+      },
+      {
+          "code": "Tab",
+          "category": "spacing",
+          "value": "Tab"
+      },
+      {
+          "code": "KeyQ",
+          "category": "letter",
+          "value": "й"
+      },
+      {
+          "code": "KeyW",
+          "category": "letter",
+          "value": "ц"
+      },
+      {
+          "code": "KeyE",
+          "category": "letter",
+          "value": "у"
+      },
+      {
+          "code": "KeyR",
+          "category": "letter",
+          "value": "к"
+      },
+      {
+          "code": "KeyT",
+          "category": "letter",
+          "value": "е"
+      },
+      {
+          "code": "KeyY",
+          "category": "letter",
+          "value": "н"
+      },
+      {
+          "code": "KeyU",
+          "category": "letter",
+          "value": "г"
+      },
+      {
+          "code": "KeyI",
+          "category": "letter",
+          "value": "ш"
+      },
+      {
+          "code": "KeyO",
+          "category": "letter",
+          "value": "щ"
+      },
+      {
+          "code": "KeyP",
+          "category": "letter",
+          "value": "з"
+      },
+      {
+          "code": "BracketLeft",
+          "category": "letter",
+          "value": "х"
+      },
+      {
+          "code": "BracketRight",
+          "category": "letter",
+          "value": "ъ"
+      },
+      {
+          "code": "Backslash",
+          "category": "changable",
+          "value": "\\",
+          "altValue": "/"
+      },
+      {
+          "code": "Delete",
+          "category": "functional",
+          "value": "Delete",
+          "function":"Delete()"
+      },
+      {
+          "code": "CapsLock",
+          "category": "functional",
+          "value": "CapsLock",
+          "function": ""
+      },
+      {
+          "code": "KeyA",
+          "category": "letter",
+          "value": "ф"
+      },
+      {
+          "code": "KeyS",
+          "category": "letter",
+          "value": "ы"
+      },
+      {
+          "code": "KeyD",
+          "category": "letter",
+          "value": "в"
+      },
+      {
+          "code": "KeyF",
+          "category": "letter",
+          "value": "а"
+      },
+      {
+          "code": "KeyG",
+          "category": "letter",
+          "value": "п"
+      },
+      {
+          "code": "KeyH",
+          "category": "letter",
+          "value": "р"
+      },
+      {
+          "code": "KeyJ",
+          "category": "letter",
+          "value": "о"
+      },
+      {
+          "code": "KeyK",
+          "category": "letter",
+          "value": "л"
+      },
+      {
+          "code": "KeyL",
+          "category": "letter",
+          "value": "д"
+      },
+      {
+          "code": "Semicolon",
+          "category": "letter",
+          "value": "ж"
+      },
+      {
+          "code": "Quote",
+          "category": "letter",
+          "value": "э"
+      },
+      {
+          "code": "Enter",
+          "category": "spacing",
+          "value": "Enter"
+      },
+      {
+          "code": "ShiftLeft",
+          "category": "functional",
+          "value": "Shift",
+          "function":"return '';"
+      },
+      {
+          "code": "KeyZ",
+          "category": "letter",
+          "value": "я"
+      },
+      {
+          "code": "KeyX",
+          "category": "letter",
+          "value": "ч"
+      },
+      {
+          "code": "KeyC",
+          "category": "letter",
+          "value": "с"
+      },
+      {
+          "code": "KeyV",
+          "category": "letter",
+          "value": "м"
+      },
+      {
+          "code": "KeyB",
+          "category": "letter",
+          "value": "и"
+      },
+      {
+          "code": "KeyN",
+          "category": "letter",
+          "value": "т"
+      },
+      {
+          "code": "KeyM",
+          "category": "letter",
+          "value": "ь"
+      },
+      {
+          "code": "Comma",
+          "category": "letter",
+          "value": "б"
+      },
+      {
+          "code": "Period",
+          "category": "letter",
+          "value": "ю"
+      },
+      {
+          "code": "Slash",
+          "category": "changable",
+          "value": ".",
+          "altValue": ","
+      },
+      {
+          "code": "ArrowUp",
+          "category": "letter",
+          "value": "&#5123"
+      },
+      {
+          "code": "ShiftRight",
+          "category": "functional",
+          "value": "Shift",
+          "function":"return '';"
+      },
+      {
+          "code": "ControlLeft",
+          "category": "functional",
+          "value": "Ctrl",
+          "function":"return '';"
+      },
+      {
+          "code": "MetaLeft",
+          "category": "functional",
+          "value": "Meta",
+          "function":"return '';"
+      },
+      {
+          "code": "AltLeft",
+          "category": "functional",
+          "value": "Alt",            
+          "function":"return '';"
+      },
+      {
+          "code": "Space",
+          "category": "letter",
+          "value": " "
+      },
+      {
+          "code": "AltRight",
+          "category": "functional",
+          "value": "Alt",
+          "function":"return '';"
+      },
+      {
+          "code": "ArrowLeft",
+          "category": "letter",
+          "value": "&#5130"
+      },
+      {
+          "code": "ArrowDown",
+          "category": "letter",
+          "value": "&#5121"
+      },
+      {
+          "code": "ArrowRight",
+          "category": "letter",
+          "value": "&#5125"
+      },
+      {
+          "code": "ControlRight",
+          "category": "functional",
+          "value": "Ctrl",
+          "function":"return '';"
+      }
+  ],
+    "en_US": [
+      {
+          "code": "Backquote",
+          "category": "changable",
+          "value": "`",
+          "altValue": "~"
+      },
+      {
+          "code": "Digit1",
+          "category": "changable",
+          "value": "1",
+          "altValue": "!"
+      },
+      {
+          "code": "Digit2",
+          "category": "changable",
+          "value": "2",
+          "altValue": "@"
+      },
+      {
+          "code": "Digit3",
+          "category": "changable",
+          "value": "3",
+          "altValue": "#"
+      },
+      {
+          "code": "Digit4",
+          "category": "changable",
+          "value": "4",
+          "altValue": "$"
+      },
+      {
+          "code": "Digit5",
+          "category": "changable",
+          "value": "5",
+          "altValue": "%"
+      },
+      {
+          "code": "Digit6",
+          "category": "changable",
+          "value": "6",
+          "altValue": "^"
+      },
+      {
+          "code": "Digit7",
+          "category": "changable",
+          "value": "7",
+          "altValue": "&"
+      },
+      {
+          "code": "Digit8",
+          "category": "changable",
+          "value": "8",
+          "altValue": "*"
+      },
+      {
+          "code": "Digit9",
+          "category": "changable",
+          "value": "9",
+          "altValue": "("
+      },
+      {
+          "code": "Digit0",
+          "category": "changable",
+          "value": "0",
+          "altValue": ")"
+      },
+      {
+          "code": "Minus",
+          "category": "changable",
+          "value": "-",
+          "altValue": "_"
+      },
+      {
+          "code": "Equal",
+          "category": "changable",
+          "value": "=",
+          "altValue": "+"
+      },
+      {
+          "code": "Backspace",
+          "category": "functional",
+          "value": "Backspace",
+          "function": "Backspace();"
+      },
+      {
+          "code": "Tab",
+          "category": "spacing",
+          "value": "Tab"
+      },
+      {
+          "code": "KeyQ",
+          "category": "letter",
+          "value": "q"
+      },
+      {
+          "code": "KeyW",
+          "category": "letter",
+          "value": "w"
+      },
+      {
+          "code": "KeyE",
+          "category": "letter",
+          "value": "e"
+      },
+      {
+          "code": "KeyR",
+          "category": "letter",
+          "value": "r"
+      },
+      {
+          "code": "KeyT",
+          "category": "letter",
+          "value": "t"
+      },
+      {
+          "code": "KeyY",
+          "category": "letter",
+          "value": "y"
+      },
+      {
+          "code": "KeyU",
+          "category": "letter",
+          "value": "u"
+      },
+      {
+          "code": "KeyI",
+          "category": "letter",
+          "value": "i"
+      },
+      {
+          "code": "KeyO",
+          "category": "letter",
+          "value": "o"
+      },
+      {
+          "code": "KeyP",
+          "category": "letter",
+          "value": "p"
+      },
+      {
+          "code": "BracketLeft",
+          "category": "changable",
+          "value": "[",
+          "altValue": "{"
+      },
+      {
+          "code": "BracketRight",
+          "category": "changable",
+          "value": "]",
+          "altValue": "}"
+      },
+      {
+          "code": "Backslash",
+          "category": "changable",
+          "value": "\\",
+          "altValue": "|"
+      },
+      {
+          "code": "Delete",
+          "category": "functional",
+          "value": "Delete",
+          "function":"Delete()"
+      },
+      {
+          "code": "CapsLock",
+          "category": "functional",
+          "value": "CapsLock",
+          "function": ""
+      },
+      {
+          "code": "KeyA",
+          "category": "letter",
+          "value": "a"
+      },
+      {
+          "code": "KeyS",
+          "category": "letter",
+          "value": "s"
+      },
+      {
+          "code": "KeyD",
+          "category": "letter",
+          "value": "d"
+      },
+      {
+          "code": "KeyF",
+          "category": "letter",
+          "value": "f"
+      },
+      {
+          "code": "KeyG",
+          "category": "letter",
+          "value": "g"
+      },
+      {
+          "code": "KeyH",
+          "category": "letter",
+          "value": "h"
+      },
+      {
+          "code": "KeyJ",
+          "category": "letter",
+          "value": "j"
+      },
+      {
+          "code": "KeyK",
+          "category": "letter",
+          "value": "k"
+      },
+      {
+          "code": "KeyL",
+          "category": "letter",
+          "value": "l"
+      },
+      {
+          "code": "Semicolon",
+          "category": "changable",
+          "value": ";",
+          "altValue": ":"
+      },
+      {
+          "code": "Quote",
+          "category": "changable",
+          "value": "'",
+          "altValue": "\""
+      },
+      {
+          "code": "Enter",
+          "category": "spacing",
+          "value": "Enter"
+      },
+      {
+          "code": "ShiftLeft",
+          "category": "functional",
+          "value": "Shift",
+          "function":"return '';"
+      },
+      {
+          "code": "KeyZ",
+          "category": "letter",
+          "value": "z"
+      },
+      {
+          "code": "KeyX",
+          "category": "letter",
+          "value": "x"
+      },
+      {
+          "code": "KeyC",
+          "category": "letter",
+          "value": "c"
+      },
+      {
+          "code": "KeyV",
+          "category": "letter",
+          "value": "v"
+      },
+      {
+          "code": "KeyB",
+          "category": "letter",
+          "value": "b"
+      },
+      {
+          "code": "KeyN",
+          "category": "letter",
+          "value": "n"
+      },
+      {
+          "code": "KeyM",
+          "category": "letter",
+          "value": "m"
+      },
+      {
+          "code": "Comma",
+          "category": "changable",
+          "value": ",",
+          "altValue": "<"
+      },
+      {
+          "code": "Period",
+          "category": "changable",
+          "value": ".",
+          "altValue": ">"
+      },
+      {
+          "code": "Slash",
+          "category": "changable",
+          "value": "/",
+          "altValue": "?"
+      },
+      {
+          "code": "ArrowUp",
+          "category": "letter",
+          "value": "&#5123"
+      },
+      {
+          "code": "ShiftRight",
+          "category": "functional",
+          "value": "Shift",
+          "function":"return '';"
+      },
+      {
+          "code": "ControlLeft",
+          "category": "functional",
+          "value": "Ctrl",
+          "function":"return '';"
+      },
+      {
+          "code": "MetaLeft",
+          "category": "functional",
+          "value": "Meta",
+          "function":"return '';"
+      },
+      {
+          "code": "AltLeft",
+          "category": "functional",
+          "value": "Alt",            
+          "function":"return '';"
+      },
+      {
+          "code": "Space",
+          "category": "letter",
+          "value": " "
+      },
+      {
+          "code": "AltRight",
+          "category": "functional",
+          "value": "Alt",
+          "function":"return '';"
+      },
+      {
+          "code": "ArrowLeft",
+          "category": "letter",
+          "value": "&#5130"
+      },
+      {
+          "code": "ArrowDown",
+          "category": "letter",
+          "value": "&#5121"
+      },
+      {
+          "code": "ArrowRight",
+          "category": "letter",
+          "value": "&#5125"
+      },
+      {
+          "code": "ControlRight",
+          "category": "functional",
+          "value": "Ctrl",
+          "function":"return '';"
+      }        
+  ]
+  }
+}
+
