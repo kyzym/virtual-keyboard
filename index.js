@@ -18,6 +18,11 @@ const virtualKeyboard = document.createElement('div');
 virtualKeyboard.className = 'keyboard';
 document.body.append(virtualKeyboard);
 
+const keyboardInfo = document.createElement('p');
+keyboardInfo.innerText =
+  'This keyboard is designed for Windows. To switch languages, use Shift + Alt.';
+document.body.append(keyboardInfo);
+
 let capsLockActive = false;
 
 const activeKeys = {};

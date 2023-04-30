@@ -1,6 +1,7 @@
 :root {
   --font-size: 14px;
   --green: #2ecc71;
+  --background-color: #85aed7;
 }
 
 body {
@@ -10,17 +11,21 @@ body {
   align-items: center;
   justify-content: center;
   background-size: 100%;
+  background-color: var(--background-color);
 }
 
 textarea {
   resize: none;
   max-width: 700px;
-  height: 300px;
+  height: 250px;
   font-weight: 800;
   background: rgba(255, 255, 255, 0.2);
   backdrop-filter: blur(5px);
   outline: none;
-  border: 1px solid rgba(0, 0, 0, 0.2);
+  border: 2px solid var(--green);
+  border-radius: 5px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1);
 }
 
 textarea::placeholder {
@@ -38,7 +43,7 @@ textarea::placeholder {
   padding: 10px;
   border: 2px solid var(--green);
   border-radius: 5px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 10px 20px rgba(0, 0, 0, 0.1);
 }
 
 .keyboard div {
@@ -53,7 +58,7 @@ textarea::placeholder {
   border-radius: 3px;
   cursor: default;
   z-index: 10;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 6px 12px rgba(0, 0, 0, 0.1);
 }
 
 .keyboard div.active,
@@ -69,6 +74,8 @@ textarea::placeholder {
   background-color: rgba(46, 204, 113, 0.5);
   border-color: #fff;
 }
+
+/* ... other keyboard styles ... */
 
 .keyboard #Backspace {
   width: 18%;
