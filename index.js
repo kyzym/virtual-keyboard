@@ -8,7 +8,6 @@ localStorage.setItem('lang', currentLanguage);
 
 const inputArea = document.createElement('textarea');
 inputArea.cols = 110;
-inputArea.rows = 10;
 inputArea.wrap = '\n';
 document.body.append(inputArea);
 setInterval(() => {
@@ -31,7 +30,7 @@ async function fetchKeyboardData() {
     const { languages } = await response.json();
     return languages;
   } catch (error) {
-    console.log(error.message);
+    throw new Error(error.message);
   }
 }
 
