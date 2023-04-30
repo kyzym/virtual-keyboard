@@ -8,73 +8,73 @@
       },
       {
         "code": "Digit1",
-        "category": "changable",
+        "category": "changeable",
         "value": "1",
         "altValue": "!"
       },
       {
         "code": "Digit2",
-        "category": "changable",
+        "category": "changeable",
         "value": "2",
         "altValue": "\""
       },
       {
         "code": "Digit3",
-        "category": "changable",
+        "category": "changeable",
         "value": "3",
         "altValue": "№"
       },
       {
         "code": "Digit4",
-        "category": "changable",
+        "category": "changeable",
         "value": "4",
         "altValue": ";"
       },
       {
         "code": "Digit5",
-        "category": "changable",
+        "category": "changeable",
         "value": "5",
         "altValue": "%"
       },
       {
         "code": "Digit6",
-        "category": "changable",
+        "category": "changeable",
         "value": "6",
         "altValue": ":"
       },
       {
         "code": "Digit7",
-        "category": "changable",
+        "category": "changeable",
         "value": "7",
         "altValue": "?"
       },
       {
         "code": "Digit8",
-        "category": "changable",
+        "category": "changeable",
         "value": "8",
         "altValue": "*"
       },
       {
         "code": "Digit9",
-        "category": "changable",
+        "category": "changeable",
         "value": "9",
         "altValue": "("
       },
       {
         "code": "Digit0",
-        "category": "changable",
+        "category": "changeable",
         "value": "0",
         "altValue": ")"
       },
       {
         "code": "Minus",
-        "category": "changable",
+        "category": "changeable",
         "value": "-",
         "altValue": "_"
       },
       {
         "code": "Equal",
-        "category": "changable",
+        "category": "changeable",
         "value": "=",
         "altValue": "+"
       },
@@ -151,7 +151,7 @@
       },
       {
         "code": "Backslash",
-        "category": "changable",
+        "category": "changeable",
         "value": "\\",
         "altValue": "/"
       },
@@ -280,7 +280,7 @@
       },
       {
         "code": "Slash",
-        "category": "changable",
+        "category": "changeable",
         "value": ".",
         "altValue": ","
       },
@@ -325,6 +325,12 @@
         "function": "return '';"
       },
       {
+        "code": "ControlRight",
+        "category": "functional",
+        "value": "Ctrl",
+        "function": "return '';"
+      },
+      {
         "code": "ArrowLeft",
         "category": "letter",
         "value": "&#5130"
@@ -338,90 +344,84 @@
         "code": "ArrowRight",
         "category": "letter",
         "value": "&#5125"
-      },
-      {
-        "code": "ControlRight",
-        "category": "functional",
-        "value": "Ctrl",
-        "function": "return '';"
       }
     ],
     "en_US": [
       {
         "code": "Backquote",
-        "category": "changable",
+        "category": "changeable",
         "value": "`",
         "altValue": "~"
       },
       {
         "code": "Digit1",
-        "category": "changable",
+        "category": "changeable",
         "value": "1",
         "altValue": "!"
       },
       {
         "code": "Digit2",
-        "category": "changable",
+        "category": "changeable",
         "value": "2",
         "altValue": "@"
       },
       {
         "code": "Digit3",
-        "category": "changable",
+        "category": "changeable",
         "value": "3",
         "altValue": "#"
       },
       {
         "code": "Digit4",
-        "category": "changable",
+        "category": "changeable",
         "value": "4",
         "altValue": "$"
       },
       {
         "code": "Digit5",
-        "category": "changable",
+        "category": "changeable",
         "value": "5",
         "altValue": "%"
       },
       {
         "code": "Digit6",
-        "category": "changable",
+        "category": "changeable",
         "value": "6",
         "altValue": "^"
       },
       {
         "code": "Digit7",
-        "category": "changable",
+        "category": "changeable",
         "value": "7",
         "altValue": "&"
       },
       {
         "code": "Digit8",
-        "category": "changable",
+        "category": "changeable",
         "value": "8",
         "altValue": "*"
       },
       {
         "code": "Digit9",
-        "category": "changable",
+        "category": "changeable",
         "value": "9",
         "altValue": "("
       },
       {
         "code": "Digit0",
-        "category": "changable",
+        "category": "changeable",
         "value": "0",
         "altValue": ")"
       },
       {
         "code": "Minus",
-        "category": "changable",
+        "category": "changeable",
         "value": "-",
         "altValue": "_"
       },
       {
         "code": "Equal",
-        "category": "changable",
+        "category": "changeable",
         "value": "=",
         "altValue": "+"
       },
@@ -488,19 +488,19 @@
       },
       {
         "code": "BracketLeft",
-        "category": "changable",
+        "category": "changeable",
         "value": "[",
         "altValue": "{"
       },
       {
         "code": "BracketRight",
-        "category": "changable",
+        "category": "changeable",
         "value": "]",
         "altValue": "}"
       },
       {
         "code": "Backslash",
-        "category": "changable",
+        "category": "changeable",
         "value": "\\",
         "altValue": "|"
       },
@@ -563,13 +563,13 @@
       },
       {
         "code": "Semicolon",
-        "category": "changable",
+        "category": "changeable",
         "value": ";",
         "altValue": ":"
       },
       {
         "code": "Quote",
-        "category": "changable",
+        "category": "changeable",
         "value": "'",
         "altValue": "\""
       },
@@ -621,19 +621,19 @@
       },
       {
         "code": "Comma",
-        "category": "changable",
+        "category": "changeable",
         "value": ",",
         "altValue": "<"
       },
       {
         "code": "Period",
-        "category": "changable",
+        "category": "changeable",
         "value": ".",
         "altValue": ">"
       },
       {
         "code": "Slash",
-        "category": "changable",
+        "category": "changeable",
         "value": "/",
         "altValue": "?"
       },

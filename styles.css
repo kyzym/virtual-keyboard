@@ -87,9 +87,11 @@ textarea::placeholder {
   width: 18%;
 }
 
-.keyboard #ShiftRight,
 .keyboard #ShiftLeft {
   width: 15%;
+}
+.keyboard #ShiftRight {
+  width: 15.5%;
 }
 
 .keyboard #ControlRight,
@@ -98,5 +100,5 @@ textarea::placeholder {
 }
 
 .keyboard #Space {
-  width: 44%;
+  width: 42%;
 }
