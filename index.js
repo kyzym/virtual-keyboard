@@ -3,13 +3,13 @@ iconLink.rel = 'icon';
 iconLink.href = 'assets/keyboard-key.png';
 document.head.appendChild(iconLink);
 
-let currentLanguage = localStorage.getItem('lang')
+const currentLanguage = localStorage.getItem('lang')
   ? localStorage.getItem('lang')
   : 'ru_RU';
 localStorage.setItem('lang', currentLanguage);
 
 const inputArea = document.createElement('textarea');
-inputArea.cols = 91;
+inputArea.cols = 100;
 inputArea.rows = 10;
 inputArea.wrap = '\n';
 document.body.append(inputArea);
